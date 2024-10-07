@@ -13,3 +13,5 @@ In your solution you must provide the following in your Github link account:
 -  Problem statement (description of the problem. Just copy what is stated here.
 -  UML Class Diagram
 -  Uploaded java codes for the solution.
+
+  ![UML CLASS DIAGRAM Facade Pattern](https://github.com/user-attachments/assets/e4b61c12-8afa-470c-8eeb-855568b56a7e)
